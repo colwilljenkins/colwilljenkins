@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @colwilljenkins
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning data science and computer science at York University
-- 💞️ I’m looking to collaborate on data science's related projects
-- 📫 Reach me at colwilljenkins@gmail.com
+- 💞️ I’m looking to collaborate on data science's related project
 
 <!---
 colwilljenkins/colwilljenkins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
