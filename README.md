@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @colwilljenkins
-- 👀 I’m interested in getting a solid base in Python to hone the practical skills of my academic degree
-- 🌱 I’m currently studying Computer Science with Data Analytics at the University of York
+- 💻 I'm employed as a Business Analyst in La Défense, France
+- 👩‍🎓 I have a BSc in Economics and a MSc in Computer Science with Data Analytics
+- 📈 Currently, I mainly work with PowerBI & Excel
+- 🔌 I would like to stay connected to the wider industry and practice some Python, R & SQL
+
 
 <!---
 colwilljenkins/colwilljenkins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
