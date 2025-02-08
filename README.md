@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @colwilljenkins
 - 💻 I'm employed as a Business Analyst in La Défense, France
 - 👩‍🎓 I have a BSc in Economics and a MSc in Computer Science with Data Analytics
-- 📈 Currently, I mainly work with PowerBI & Excel
-- 🔌 I would like to stay connected to the wider industry and practice some Python & SQL
+- 📈 Currently, I mainly work with PowerBI, Excel & ERPs
+- 🔌 I would like to stay connected to the wider industry, by practising Python & SQL... while maybe expanding my knowledge in both JS & R
 
 
 <!---
